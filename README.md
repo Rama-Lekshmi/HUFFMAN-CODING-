@@ -18,8 +18,8 @@ Calculate frequency of occurence.
 Print the characters and its Huffman code.
 ## Program:
 ~~~
-Developed by : Javith farkhan S
-Registration Number : 212221240017
+Developed by : Rama E. K. Lekshmi
+Registration Number : 212222240082
 ~~~
 ### Get the input String:
 ~~~
